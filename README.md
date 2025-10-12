@@ -94,7 +94,7 @@ BibTeX:
 
 ## Contributing & Contact
 
-Contributions welcome! Fork, PR, or open issues for bugs/features. For collaborations, data access, or questions: divine.sebukpor@example.com.
+Contributions welcome! Fork, PR, or open issues for bugs/features. For collaborations, data access, or questions: divinesebukpor@gmail.com.
 
 Licensed under [Apache-2.0](LICENSE). Star ⭐ if this fuels your microbiome research!
 
