@@ -29,8 +29,8 @@ For the full manuscript:
 This repo is structured for easy reproducibility, with Jupyter notebooks as the primary workflow tools and raw/processed data files.
 
 - **Notebooks** (Core Analysis Pipeline):
-  - [`Decompressing mpegg files to fastq.ipynb`](Decompressing mpegg files to fastq.ipynb): MPEG-G decompression of compressed genomic data to FASTQ format.
-  - [`Taxanomic classification of fastq files with Kranken and Bracken.ipynb`](Taxanomic classification of fastq files with Kranken and Bracken.ipynb): Taxonomic profiling of FASTQ files using Kraken2 and Bracken for abundance estimation (note: "Kranken" is a playful nod to Kraken!).
+  - [`Decompressing mpegg files to fastq.ipynb`](Decompressing_mpegg_files_to_fastq.ipynb): MPEG-G decompression of compressed genomic data to FASTQ format.
+  - [`Taxanomic classification of fastq files with Kranken and Bracken.ipynb`](Taxanomic_classification_of_fastq_files_with_Kranken_and_Bracken.ipynb): Taxonomic profiling of FASTQ files using Kraken2 and Bracken for abundance estimation (note: "Kranken" is a playful nod to Kraken!).
   - [`cytokine_profiles_microbiome_merging.ipynb`](cytokine_profiles_microbiome_merging.ipynb): Merging cytokine profiles with microbiome data for integrated analysis.
   - [`Cytokine_Microbiome_Analysis.ipynb`](Cytokine_Microbiome_Analysis.ipynb): End-to-end analysis including t-SNE visualization, PERMANOVA, Random Forest classification, network analysis, and temporal Shannon diversity plotting.
 
