@@ -36,8 +36,8 @@ This repo is structured for easy reproducibility, with Jupyter notebooks as the 
 
 - **Data** (Anonymized & Processed):
   - [`cytokine_profiles.csv`](cytokine_profiles.csv): High-resolution cytokine measurements (~66 analytes) across samples.
-  - [`Train.csv`](Train.csv): Merged training dataset with microbiome features, cytokines, metadata (e.g., health status, collection dates 2012–2017).
-  - [`Train_Subjects.csv`](Train_Subjects.csv): Subject-level metadata for 607 participants (expanded to 642 samples).
+  - [`Train.csv`](Train.csv): Merged ID's of training dataset for microbiome, cytokines, metadata.
+  - [`Train_Subjects.csv`](Train_Subjects.csv): Subject-level metadata.
 
 - **Other**:
   - [`LICENSE`](LICENSE): Apache-2.0 license.
@@ -84,12 +84,11 @@ If using this resource, please cite:
 
 BibTeX:
 ```
-@article{sebukpor2025,
+@unpublished{sebukpor2025,
   title={Decoding the Human Microbial-Immune Axis: A Multi-Site Atlas of Microbiome-Cytokine Interactions Reveals Novel Biomarkers and Therapeutic Avenues Across Health and Disease},
   author={Sebukpor, Divine},
-  journal={Preprint},
   year={2025},
-  doi={pending}
+  note={Preprint. DOI: pending. Available at: https://github.com/Sebukpor/Microbiome-Cytokine-Interactions}
 }
 ```
 
