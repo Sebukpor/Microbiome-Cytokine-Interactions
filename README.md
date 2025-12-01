@@ -2,7 +2,6 @@
 
 # Decoding the Human Microbial-Immune Axis: A Multi-Site Atlas of Microbiome-Cytokine Interactions
 
-[![GitHub stars](https://img.shields.io/github/stars/Sebukpor/Microbiome-Cytokine-Interactions?style=social)](https://github.com/Sebukpor/Microbiome-Cytokine-Interactions/stargazers)
 [![GitHub license](https://img.shields.io/github/license/Sebukpor/Microbiome-Cytokine-Interactions)](https://github.com/Sebukpor/Microbiome-Cytokine-Interactions/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-brightgreen)](https://jupyter.org/)
