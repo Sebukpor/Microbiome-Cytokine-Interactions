@@ -91,21 +91,6 @@ This repo is structured for easy reproducibility, with Jupyter notebooks as the 
   ```
 - **Extend Analysis**: Modify notebooks for new sites or features—e.g., integrate metagenomic functional profiling.
 
-## Citation
-
-If using this resource, please cite:
-
-> Sebukpor, D. (2025). *Decoding the Human Microbial-Immune Axis: A Multi-Site Atlas of Microbiome-Cytokine Interactions Reveals Novel Biomarkers and Therapeutic Avenues Across Health and Disease*. Preprint. DOI: [pending]. Repository: https://github.com/Sebukpor/Microbiome-Cytokine-Interactions.
-
-**BibTeX**:
-```bibtex
-@unpublished{sebukpor2025,
-  title={Decoding the Human Microbial-Immune Axis: A Multi-Site Atlas of Microbiome-Cytokine Interactions Reveals Novel Biomarkers and Therapeutic Avenues Across Health and Disease},
-  author={Sebukpor, Divine},
-  year={2025},
-  note={Preprint. DOI: pending. Available at: https://github.com/Sebukpor/Microbiome-Cytokine-Interactions}
-}
-```
 
 ## Contributing & Contact
 
