@@ -102,4 +102,4 @@ Licensed under [Apache-2.0](LICENSE).
 
 ---
 
-*Empowering precision medicine through microbial-immune insights. Last updated: October 12, 2025.*
+*Empowering precision medicine through microbial-immune insights.*
