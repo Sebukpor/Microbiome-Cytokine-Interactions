@@ -24,7 +24,7 @@ For the full manuscript:
 
 ## Data Sources
 
-The genomic data used in this study originates from the **Zindi MPEG-G Compression Challenge**, and includes both compressed MPEG-G files and their decompressed FASTQ counterparts:
+The genomic data used in this study originates from the **Zindi MPEG-G Compression Challenge**, and compressed MPEG-G files which were later decompressed to FASTQ for downstream task:
 
 - **MPEG-G compressed genomic data**:  
   [Kaggle Dataset: maestroalert/trainfiles](https://www.kaggle.com/datasets/maestroalert/trainfiles)
